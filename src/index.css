@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(229 242 254);
+}
+.form-control{
+  background-color: #e3ffff;
+}
+.buttons{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+.redtheme{
+  height: 20px;
+  width: 20px;
+  border-radius: 15px;
+  background-color: red;
+}
+.bluetheme{
+  height: 20px;
+  width: 20px;
+  border-radius: 15px;
+  background-color: blue;
+}
+.pinktheme{
+  height: 20px;
+  width: 20px;
+  border-radius: 15px;
+  background-color: pink;
+}
+.themechanger{
+  display: flex;
+  gap: 6px;
+}
