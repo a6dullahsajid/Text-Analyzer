@@ -13,7 +13,7 @@ function App() {
       document.body.style.backgroundColor = `rgb(25 26 42)`;
     } else {
       setMode("light");
-      document.body.style.backgroundColor = `rgb(229 242 254)`;
+      document.body.style.backgroundColor = `rgb(184 207 243 / 70%)`;
       // document.querySelector(".form-control").style.backgroundColor = '#e3ffff';
     }
   }
